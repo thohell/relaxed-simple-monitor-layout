@@ -1,0 +1,18 @@
+{
+  "name": "relaxed-simple-monitor-layout",
+  "version": "1.0.0",
+  "description": "This is a tiny npm module that does one thing, and one thing only. It contains a simple parser for xrandr that returns the layout of any active monitors as an array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Hellström <rel@xed.se>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thohell/relaxed-simple-monitor-layout"
+  }
+}

@@ -1,0 +1,6 @@
+.vscode
+*.js
+*.d.ts
+*.js.map
+node_modules
+*-lock.json
