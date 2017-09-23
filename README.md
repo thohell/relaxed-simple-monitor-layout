@@ -2,6 +2,9 @@
 
 This is a tiny npm module that does one thing, and one thing only. It contains a simple parser for **xrandr** that returns the layout of any active monitors as an array. You need to have the binary **xrandr** in your path. Only the layout of the current screen is returned.
 
+This little snippet was written using **node 8.5.0** on an **Ubuntu 17.04** (amd64) system. There are absolutely no guarantees that this will work in any other configuration.
+
+
 Install from npm registry:
 ```
 npm install relaxed-simple-monitor-layout
